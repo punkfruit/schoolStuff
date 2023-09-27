@@ -1,0 +1,16 @@
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.exe
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.deps.json
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.runtimeconfig.json
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.runtimeconfig.dev.json
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.dll
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\bin\Debug\net5.0\ref\NumberGuesser.dll
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.pdb
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.AssemblyInfo.cs
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.dll
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\ref\NumberGuesser.dll
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.pdb
+C:\Users\flow x16\Documents\GitHub\schoolStuff\unit1cChallenge\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.genruntimeconfig.cache
