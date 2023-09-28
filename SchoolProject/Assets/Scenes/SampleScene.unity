@@ -157,8 +157,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  jumpForce: 5
-  gravity: -20
+  jumpForce: 2
+  gravity: -40
   mouseSensitivity: 2
   playerCamera: {fileID: 519420032}
 --- !u!143 &421069878
