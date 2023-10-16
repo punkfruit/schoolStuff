@@ -10,6 +10,8 @@ public class PickuoSpawner : MonoBehaviour
 
     public GameObject pickup;
 
+    public bool work = true;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,7 +27,11 @@ public class PickuoSpawner : MonoBehaviour
         }
         else if(counter <= 0)
         {
-            SpawnPickup();
+            if (work)
+            {
+                SpawnPickup();
+            }
+            
             counter = timer;
         }
     }
