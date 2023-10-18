@@ -12,7 +12,7 @@ public class DestroyPickup : MonoBehaviour
         if (other.tag == "Pickup")
         {
 
-            Destroy(other);
+            Destroy(other.gameObject);
         }
 
     }
