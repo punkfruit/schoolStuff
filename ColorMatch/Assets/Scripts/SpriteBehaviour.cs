@@ -27,4 +27,9 @@ public class SpriteBehaviour : MonoBehaviour
     {
         spr.enabled = state;
     }
+
+    public void ChangeRendererColor(ColorIDListData obj)
+    {
+        spr.color = obj.currentColor.value;
+    }
 }
