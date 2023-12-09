@@ -20,6 +20,7 @@ public class MatchBehaviour : MonoBehaviour
         if(otherID == idobj)
         {
             matchEvent.Invoke();
+            Debug.Log("collided with " + other);
         }
         else
         {
